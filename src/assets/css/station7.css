@@ -1,0 +1,7 @@
+a {
+  color: initial;
+}
+
+a:hover {
+  color: #008000;
+}
